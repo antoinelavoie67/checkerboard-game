@@ -1,0 +1,12 @@
+#* java -ea ataxx.Main
+manual blue
+a7-b5
+g7-f7
+g1-g2
+a1-b2
+g2-f3
+seed 12345
+auto red
+auto blue
+#*move/win+
+quit
